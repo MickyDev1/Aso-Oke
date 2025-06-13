@@ -29,7 +29,7 @@ export function Header() {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                {/* <span>oladeleolukemi@gmail.com</span> */}
+                <span>oladeleolukemi@gmail.com</span>
               </div>
             </div>
             <div className="hidden md:block">

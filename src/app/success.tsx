@@ -67,7 +67,7 @@ export default function CheckoutSuccessPage() {
                     </div>
                     <span className="ml-2 text-sm font-medium">Processing</span>
                   </div>
-                  <span className="text-xs text-gray-500">1-2 business days</span>
+                  <span className="text-xs text-gray-500">1-7 business days</span>
                 </div>
 
                 <div className="flex items-center justify-between">

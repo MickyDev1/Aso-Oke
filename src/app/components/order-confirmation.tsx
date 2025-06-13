@@ -39,8 +39,8 @@ interface OrderConfirmationEmailProps {
 
 export const OrderConfirmationEmail = ({
   orderNumber = "ORD-123456",
-  customerName = "John Doe",
-  orderDate = "June 11, 2024",
+  customerName = "Micky Dev",
+  orderDate = "June 11, 2025",
   shippingAddress = {
     line1: "123 Main St",
     line2: "Apt 4B",
@@ -195,7 +195,7 @@ export const OrderConfirmationEmail = ({
               <Row className="bg-gray-100 px-6 py-4">
                 <Column>
                   <Text className="text-sm text-gray-500 text-center m-0">
-                    © 2024 Aso Oke Fabrics. All rights reserved.
+                    © 2025 Aso Oke Fabrics. All rights reserved.
                   </Text>
                 </Column>
               </Row>
